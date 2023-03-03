@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "mathjs": "^11.6.0",
+    "package": "^1.0.1"
+  }
+}
