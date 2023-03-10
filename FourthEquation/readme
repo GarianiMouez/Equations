@@ -1,0 +1,4 @@
+/// in this scripts we well calculate Energy produced per motor (fourth equation)
+///Note :: we assume that we have one motor that provides power(clonne power)
+/// Note :: the unit of energy will be the K joule
+/// Note ::: it is assumed that each dependent value
